@@ -1,1 +1,1 @@
-# mrx-ssl-veryfy
+# mrx-ssl-verify
