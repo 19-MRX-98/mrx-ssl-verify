@@ -1,1 +1,1 @@
-auth.trelink.de:443
+google.de:443
