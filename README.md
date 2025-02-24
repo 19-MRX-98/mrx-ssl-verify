@@ -11,4 +11,4 @@ Ausgegeben wird die restliche Gültigkeit des Zertifikats in Tagen
 ## Domänennamen
 > [WICHTIG]
 > Die Domänennamen, die überprüft werden sollen, müssen in die domainlist.txt im Format HOSTNAME:PORT eingepflegt werden.
-> Beispiel: auth.trelink.de:443
+> Beispiel: google.de:443
